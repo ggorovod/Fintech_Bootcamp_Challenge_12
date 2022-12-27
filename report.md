@@ -35,4 +35,3 @@ Credit risk classification analysis using imbalanced_learn library techniques. L
 For this particular dataset, the oversampling techniques generated a higher level or accuracy and recall of 100% without sacrificing precision which stayed at 85% (same as  original data). The results of this exercise clearly show that using Oversampling will generate a more reliable model for identifiying high-risk loans. 
 
 The data supports a recommindation for Oversampled LinearRegression ML Model over original sample data.
-
